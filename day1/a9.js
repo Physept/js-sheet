@@ -1,0 +1,1 @@
+let first_name= 'xyz', last_name= 'abc', is_married= false, country= 'INDIA', age= 20
